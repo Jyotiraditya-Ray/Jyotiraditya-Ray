@@ -104,17 +104,7 @@ A platform bridging the gap between prescriptions and medicine procurement via A
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotiraditya-Ray&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya-Ray&show_icons=true&theme=tokyo-night&count_private=true&hide_border=true" alt="Jyotiraditya's GitHub Stats" height="160" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotiraditya-Ray&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" alt="Jyotiraditya's Top Languages" height="160" />
-  </a>
-</div>
 
 ## 🌐 **Connect**
 
