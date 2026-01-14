@@ -74,39 +74,29 @@ I don't just train models; I build the **infrastructure, pipelines, and agents**
 
 ---
 
-## 🔬 **Featured System Architectures**
+## 🔬 **Featured Projects**
+
+### 🏛️ **GenAI Colosseum: Instant Generative AI Prototyping**
+> 🌐 **[View Live Documentation](https://genai-colosseum-website123.vercel.app/)**
+
+[cite_start]A Python-based CLI tool designed to accelerate GenAI prototyping from hours to seconds[cite: 88, 99].
+- [cite_start]**Automated Workflow:** Fetches architectural templates and dynamically constructs project structures[cite: 137, 144].
+- [cite_start]**Dependency Management:** Automatically handles package installation and environment configuration[cite: 146, 149].
+- [cite_start]**Hybrid Support:** Engineered to support both local LLMs (Ollama) and cloud providers (OpenAI)[cite: 173].
 
 ### 📊 **DataCrux: Autonomous Data Processing Engine**
-> *An end-to-end automated pipeline transforming raw CSVs into predictive ML models.*
+> 🌐 **[View Live Pipeline](https://data-crux.vercel.app/)**
 
-**The Architecture:**
-DataCrux operates as a multi-stage intelligent pipeline designed to handle high-dimensional datasets with minimal human intervention. It moves beyond simple analysis to perform **generative augmentation**.
+An end-to-end automated pipeline transforming raw CSVs into predictive ML models.
+- **Intent Parsing:** Uses NLP to map user queries to data execution plans.
+- **Generative Augmentation:** Trains generative models on reduced datasets to synthesize new samples.
+- **Ensemble Cleaning:** Applies consensus-based outlier detection to remove noise with minimal data loss.
 
-1.  **Intent Parsing (NLP):** Utilizes Natural Language Processing to parse user queries and map them to specific data execution plans.
-2.  **Automated Enhancement:** Executes feature engineering and categorical encoding while preserving strict row integrity.
-3.  **Generative Augmentation (GANs):** A distinguishing feature where **Generative Adversarial Networks** are trained on the reduced dataset to synthesize new, statistically accurate samples, solving the "small data" problem.
-4.  **Ensemble Outlier Detection:** A rigorous cleaning phase using a consensus of **Isolation Forests, DBSCAN, and IQR** to remove noise (capped at 5% loss).
-5.  **Adaptive Visualization:** An LLM-driven layer that dynamically selects and generates the most statistically significant visualizations based on the cleaned data.
-
----
-
-### 🏛️ **GenAI Colosseum: LLM Benchmarking Framework**
-> *A specialized Python library for the rigorous stress-testing of Large Language Models.*
-
-**The Engineering:**
-Standardizing the evaluation of non-deterministic models is difficult. GenAI Colosseum solves this by treating LLM evaluation as a scientific experiment.
-* **Metrics Engineered:** Latency (ms/token), Throughput, Semantic Similarity (BERTScore), and Factual Consistency.
-* **System:** A modular Python package allowing developers to plug in any HuggingFace or OpenAI model and receive a comparative performance report.
-
----
-
-### 💊 **DawaSaarthi: Healthcare Intelligence Backend**
-> *Bridging the gap between pharmaceutical data and patient accessibility.*
-
-**The Backend:**
-A scalable microservices architecture designed to handle complex healthcare queries.
-* **Data Pipeline:** Aggregates and normalizes fragmented pharmaceutical data into a structured knowledge base.
-* **Search Logic:** Implements semantic search capabilities to map vague user symptoms to specific medical inventory availabilities in real-time.
+### 💊 **DawaSaarthi: AI-Driven Healthcare Interoperability**
+[cite_start]A platform bridging the gap between prescriptions and medicine procurement via Autonomous Agents[cite: 20].
+- [cite_start]**Intelligent Extraction:** Uses computer vision to extract drug names from prescription images[cite: 25].
+- [cite_start]**Agent Orchestration:** Deploys autonomous agents to trigger search processes across multiple sources[cite: 27].
+- [cite_start]**Unified Retrieval:** Aggregates real-time availability and pricing from verified e-pharmacies[cite: 29].
 
 ---
 
