@@ -93,10 +93,10 @@ An end-to-end automated pipeline transforming raw CSVs into predictive ML models
 - **Ensemble Cleaning:** Applies consensus-based outlier detection to remove noise with minimal data loss.
 
 ### 💊 **DawaSaarthi: AI-Driven Healthcare Interoperability**
-[cite_start]A platform bridging the gap between prescriptions and medicine procurement via Autonomous Agents[cite: 20].
-- [cite_start]**Intelligent Extraction:** Uses computer vision to extract drug names from prescription images[cite: 25].
-- [cite_start]**Agent Orchestration:** Deploys autonomous agents to trigger search processes across multiple sources[cite: 27].
-- [cite_start]**Unified Retrieval:** Aggregates real-time availability and pricing from verified e-pharmacies[cite: 29].
+A platform bridging the gap between prescriptions and medicine procurement via Autonomous Agents[cite: 20].
+- **Intelligent Extraction:** Uses computer vision to extract drug names from prescription images[cite: 25].
+- **Agent Orchestration:** Deploys autonomous agents to trigger search processes across multiple sources[cite: 27].
+- **Unified Retrieval:** Aggregates real-time availability and pricing from verified e-pharmacies[cite: 29].
 
 ---
 
